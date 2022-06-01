@@ -15,6 +15,6 @@ NS Lab@CUK is recruiting new members with fashion and enthusiasm for artificial 
 
 ***
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnslab-cuk.github.io&count_bg=%230C2E86&title_bg=%23555555&icon=jekyll.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNSLab-CUK&count_bg=%230C2E86&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnslab-cuk.github.io&count_bg=%230C2E86&title_bg=%23555555&icon=jekyll.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNSLab-CUK&count_bg=%230C2E86&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true"/>
 
 [![snake svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/output/github-contribution-grid-snake.svg)](https://github.com/NSLab-CUK)
