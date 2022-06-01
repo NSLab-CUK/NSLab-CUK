@@ -228,7 +228,7 @@
 
   <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="159" height="42" rx="18.0355" />
+    <rect width="180" height="42" rx="18.0355" />
     <text x="15" y="27">Hello, we are NS Lab@CUK.</text>
   </g>
 
@@ -253,8 +253,9 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">We are from Bucheon, Rep. of Korea where it’s supposed to be</text>
-    <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
+    <text x="15" y="27">We are from Bucheon, Rep. of Korea</text>
+    <text x="15" y="50">where it’s supposed to be</text>
+    <text x="15" y="73">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -278,8 +279,10 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">We study a broad range of theories and methodologies related to collecting, representing, and analyzing networked data.</text>
-    <text x="15" y="50">Recently, we have been interested in self-supervised representation learning of dynamic heterogeneous networks and attributed networks by using multi-modal transformers.</text>
+    <text x="15" y="27">We study a broad range of theories and methodologies</text>
+    <text x="15" y="50">related to collecting, representing, and analyzing networked data.</text>
+    <text x="15" y="73">Recently, we have been interested in self-supervised representation learning of</text>
+    <text x="15" y="96">attributed dynamic heterogeneous networks by using multi-modal transformers.</text>
   </g>
 
   <!-- typing 4 -->
