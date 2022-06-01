@@ -1,4 +1,4 @@
-![message_svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/master/chat.svg)
+[![message_svg](https://github.com/NSLab-CUK/NSLab-CUK/blob/master/chat.svg)](https://nslab-cuk.github.io/)
 
 ## Network Science Lab, The Catholic University of Korea
 
