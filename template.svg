@@ -252,7 +252,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="530" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="540" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">We are from Bucheon, Rep. of Korea where it’s supposed to be</text>
     <text x="15" y="50">{degC}° C and <tspan class="emoji">{weatherEmoji}</tspan> today.</text>
   </g>
@@ -302,7 +302,7 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+    <rect width="405" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find us on
       <a xlink:href="https://nslab-cuk.github.io/">https://nslab-cuk.github.io/</a>
