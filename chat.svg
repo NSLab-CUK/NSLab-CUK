@@ -228,8 +228,8 @@
 
   <!-- Hi, I'm Sigrid Jin -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="159" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Sigrid Jin</text>
+    <rect width="260" height="42" rx="18.0355" />
+    <text x="15" y="27">Hello, we are NS Lab@CUK.</text>
   </g>
 
   <!-- typing 2 -->
@@ -252,9 +252,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="425" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I am from Seoul, Korea where it’s supposed to be</text>
-    <text x="15" y="50">79° F (26° C) and <tspan class="emoji">⛅️</tspan> today.</text>
+    <rect width="540" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">We are from Bucheon, Rep. of Korea where it’s supposed to be</text>
+    <text x="15" y="50">28° C and <tspan class="emoji">⛅️</tspan> today.</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,9 +277,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m eager to challenge new things!</text>
-    <text x="15" y="50">Now learning Crypto/Web3/backend fields.</text>
+    <rect width="475" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">We study a broad range of theories and methodologies</text>
+    <text x="15" y="50">to collect, represent, and analyze networked data.</text>
   </g>
 
   <!-- typing 4 -->
@@ -302,10 +302,10 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+    <rect width="405" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on
-      <a xlink:href="https://abit.ly/jypthemiracle">https://abit.ly/jypthemiracle</a>
+      You can find us on
+      <a xlink:href="https://nslab-cuk.github.io/">https://nslab-cuk.github.io/</a>
     </text>
   </g>
 
@@ -331,6 +331,6 @@
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="255" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">Stay safe on this pandemic!</text>
-    <text x="15" y="47">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>
+    <text x="15" y="47">Have a great Wednesday! <tspan class="emoji">👋</tspan></text>
   </g>
 </svg>
