@@ -10,8 +10,10 @@ NS Lab@CUK is recruiting new members with fashion and enthusiasm for artificial 
 ### E-mail Addresses
 
 * [![E-mail](https://img.shields.io/badge/Official-nslab.ai.cuk@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:nslab.ai.cuk@gmail.com)
+<!-- 주석처리 
 * [![E-mail](https://img.shields.io/badge/Director-ojlee@catholic.ac.kr-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:ojlee@catholic.ac.kr)
 * [![E-mail](https://img.shields.io/badge/Lab%20Rep-sarasong4423@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:sarasong4423@gmail.com)
+-->
 
 ***
 
