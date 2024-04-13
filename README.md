@@ -2,7 +2,7 @@
 
 ## Network Science Lab, The Catholic University of Korea
 
-<p align="center"><img src="https://nslab-cuk.github.io/images/220908_2.jpg"/></p>
+<p align="center"><img src="https://nslab-cuk.github.io/images/220908_2.jpg" width="90%"></p>
 
 The [Network Science Lab](https://nslab-cuk.github.io/) at the Catholic University of Korea (NS Lab@CUK) investigates a wide range of theories and methods related to the collection, representation, and analysis of networked data. Since its establishment in September 2021, NS Lab@CUK has been working on various artificial intelligence and machine learning models for networked data, including graph representation learning models and graph neural networks (GNNs). Recently, this group has been interested in self-supervised representation learning of dynamic heterogeneous graphs and attributed graphs using multimodal transformers. NS Lab@CUK has also applied these models to various applications such as detecting rumor propagation and fake news in social media, predicting research collaborators, estimating collaboration performance, predicting drug effects, etc.
 
