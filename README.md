@@ -19,7 +19,7 @@ NS Lab@CUK is recruiting new members with fashion and enthusiasm for artificial 
 
 ***
 
-<a href="https://nslab-cuk.github.io/"><img src="/Logo_Dual_Wide.png"/></a>
+<p align="center"><a href="https://nslab-cuk.github.io/"><img src="/Logo_Dual_Wide.png" width="100%"></a></p>
 
 <br>
 
