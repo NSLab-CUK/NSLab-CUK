@@ -329,7 +329,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="340" height="66.13" rx="18.0355" class="bubble" />
+    <rect width="350" height="66.13" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thank you for your attention to our team.</text>
     <text x="15" y="47">Have a great {todayDay}! <tspan class="emoji">👋</tspan></text>
   </g>
